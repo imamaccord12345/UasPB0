@@ -1,0 +1,51 @@
+body{
+    background-color: #aaa;
+}
+.box{
+    max-width: 450px;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 100px auto;
+    background-color: white;
+}
+.input{
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px;
+    margin: 20px 0;
+}
+.btn{
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    background-color:rgb(70, 228, 8);
+    color: white;
+    padding: 20px;
+}
+.btn:hover{
+    background-color: green;
+}
+.hasil{
+    text-align: center;
+}
+
+.linkth{
+    text-decoration: none;
+    text-align: center;padding-left: 150px;
+}
+.a{
+    color: rgb(16, 192, 25);
+}
+.a:hover{
+    color: chartreuse;
+}
+.reload{
+    color: rgb(16, 192, 25);
+    text-align: center;
+    padding-left:400px;
+}
+.reload:hover{
+    color: greenyellow;
+}

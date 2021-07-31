@@ -1,0 +1,42 @@
+
+body{
+    background-color: #aaa;
+}
+.box{
+    max-width: 450px;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 100px auto;
+    background-color: white;
+}
+
+.btn{
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    background-color:rgb(70, 228, 8);
+    color: white;
+    padding: 20px;
+}
+.btn:hover{
+    background-color: green;
+}
+
+.btnm{
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    background-color:rgb(255, 5, 5);
+    color: white;
+    padding: 20px;
+}
+.btnm:hover{
+    background-color: rgb(128, 0, 0);
+}
+.h1{
+    text-align: center;
+}
